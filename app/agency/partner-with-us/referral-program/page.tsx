@@ -1,11 +1,11 @@
-﻿import type { Metadata } from 'next';
+import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
   title: "Aenfinite Referral Program | Earn Rewards by Referring Clients",
-  description: "Join the Aenfinite Referral Program â€” earn rewards for referring clients to our creative digital agency. Help businesses connect with top-tier design, branding, and web development solutions from New Yorkâ€™s Aenfinite.",
+  description: "Join the Aenfinite Referral Program — earn rewards for referring clients to our creative digital agency. Help businesses connect with top-tier design, branding, and web development solutions from New York’s Aenfinite.",
   keywords: "referral program, refer clients, earn rewards, agency referral, client referral program, Aenfinite referral",
-  alternates: { canonical: "https://aenfinite.nyc/agency/partner-with-us/referral-program/", languages: {"x-default":"https://aenfinite.nyc/agency/partner-with-us/referral-program/","en":"https://aenfinite.nyc/agency/partner-with-us/referral-program/","es":"https://aenfinite.nyc/es/agency/partner-with-us/referral-program/","fr":"https://aenfinite.nyc/fr/agency/partner-with-us/referral-program/","de":"https://aenfinite.nyc/de/agency/partner-with-us/referral-program/","it":"https://aenfinite.nyc/it/agency/partner-with-us/referral-program/","ar":"https://aenfinite.nyc/ar/agency/partner-with-us/referral-program/","pt":"https://aenfinite.nyc/pt/agency/partner-with-us/referral-program/","zh":"https://aenfinite.nyc/zh/agency/partner-with-us/referral-program/","hi":"https://aenfinite.nyc/hi/agency/partner-with-us/referral-program/","nl":"https://aenfinite.nyc/nl/agency/partner-with-us/referral-program/","ja":"https://aenfinite.nyc/ja/agency/partner-with-us/referral-program/","ko":"https://aenfinite.nyc/ko/agency/partner-with-us/referral-program/"} },
+  alternates: { canonical: "https://aenfinite.nyc/agency/partner-with-us/referral-program/", languages: {"x-default":"https://aenfinite.nyc/agency/partner-with-us/referral-program/","en":"https://aenfinite.nyc/agency/partner-with-us/referral-program/"} },
   openGraph: {"title":"Aenfinite Referral Program | Earn Rewards by Referring Clients","description":"Refer a business or agency to Aenfinite and earn commission rewards. Join our referral program and help others access high-quality creative services in design, development, and digital marketing.","url":"https://aenfinite.nyc/referral-program/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.nyc/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
   twitter: {"card":"summary_large_image","title":"Aenfinite Referral Program | Earn Rewards by Referring Clients","description":"Refer clients to Aenfinite and earn commissions. Join our creative agency referral program and get rewarded for helping others grow their brand.","images":["https://aenfinite.nyc/wp-content/uploads/2024/11/share-image-dd.jpg"]},
   robots: { index: true, follow: true },
@@ -1831,7 +1831,7 @@ export default function Page() {
   "@type": "WebPage",
   "url": "https://aenfinite.nyc/referral-program/",
   "name": "Aenfinite Referral Program | Earn Rewards by Referring Clients",
-  "description": "Aenfiniteâ€™s referral program rewards individuals and partners who refer clients for our creative digital agency services in design, branding, and web development.",
+  "description": "Aenfinite’s referral program rewards individuals and partners who refer clients for our creative digital agency services in design, branding, and web development.",
   "publisher": {
     "@type": "Organization",
     "name": "Aenfinite",
@@ -1850,7 +1850,7 @@ export default function Page() {
     "@type": "Offer",
     "name": "Aenfinite Referral Program",
     "category": "Referral and Partnership",
-    "description": "Earn rewards and commissions for referring new clients to Aenfiniteâ€™s creative digital services.",
+    "description": "Earn rewards and commissions for referring new clients to Aenfinite’s creative digital services.",
     "provider": {
       "@type": "Organization",
       "name": "Aenfinite",

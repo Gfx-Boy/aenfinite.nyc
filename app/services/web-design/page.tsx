@@ -1,13 +1,13 @@
-﻿import type { Metadata } from 'next';
+import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Professional UI/UX Design Services | User Interface & Experience Design | AenfiniteÂ®",
+  title: "Professional UI/UX Design Services | User Interface & Experience Design | Aenfinite®",
   description: "Enhance your digital experience with Aenfinite",
   keywords: "web design, website design, responsive web design, modern web design, creative web design, professional website design, UI design, Aenfinite",
-  alternates: { canonical: "https://aenfinite.nyc/services/web-design/", languages: {"x-default":"https://aenfinite.nyc/services/web-design/","en":"https://aenfinite.nyc/services/web-design/","es":"https://aenfinite.nyc/es/services/web-design/","fr":"https://aenfinite.nyc/fr/services/web-design/","de":"https://aenfinite.nyc/de/services/web-design/","it":"https://aenfinite.nyc/it/services/web-design/","ar":"https://aenfinite.nyc/ar/services/web-design/","pt":"https://aenfinite.nyc/pt/services/web-design/","zh":"https://aenfinite.nyc/zh/services/web-design/","hi":"https://aenfinite.nyc/hi/services/web-design/","nl":"https://aenfinite.nyc/nl/services/web-design/","ja":"https://aenfinite.nyc/ja/services/web-design/","ko":"https://aenfinite.nyc/ko/services/web-design/"} },
-  openGraph: {"title":"Professional UI/UX Design Services | User Interface & Experience Design | AenfiniteÂ®","description":"Enhance your digital experience with Aenfinite","url":"https://aenfinite.nyc/services/ui-ux-design/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.nyc/wp-content/themes/aenfinite.nyc/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Professional UI/UX Design Services | User Interface & Experience Design | AenfiniteÂ®","description":"Enhance your digital experience with Aenfinite","images":["https://aenfinite.nyc/wp-content/themes/aenfinite.nyc/images/thumbnail.jpg"]},
+  alternates: { canonical: "https://aenfinite.nyc/services/web-design/", languages: {"x-default":"https://aenfinite.nyc/services/web-design/","en":"https://aenfinite.nyc/services/web-design/"} },
+  openGraph: {"title":"Professional UI/UX Design Services | User Interface & Experience Design | Aenfinite®","description":"Enhance your digital experience with Aenfinite","url":"https://aenfinite.nyc/services/ui-ux-design/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.nyc/wp-content/themes/aenfinite.nyc/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Professional UI/UX Design Services | User Interface & Experience Design | Aenfinite®","description":"Enhance your digital experience with Aenfinite","images":["https://aenfinite.nyc/wp-content/themes/aenfinite.nyc/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1110,7 +1110,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                 <a href="/services/">Services</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Development Solutions â€º</a>
+										<a href="#">Development Solutions ›</a>
 										<ul class="sub-menu">
 											                                            
 											<li><a href="/services/wordpress-websites/">WordPress Websites</a></li>
@@ -1122,7 +1122,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/services/web-design-and-branding-for-real-estate/">Real Estate Web Solutions</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Design & Creative Services â€º</a>
+										<a href="#">Design & Creative Services ›</a>
 										<ul class="sub-menu">
 											<li><a href="/services/ui-ux-design/">UI/UX Design</a></li>
 											<li><a href="/services/branding/">Brand Identity & Strategy</a></li>
@@ -1133,7 +1133,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Marketing & Digital Solutions â€º</a>
+										<a href="#">Marketing & Digital Solutions ›</a>
 										<ul class="sub-menu">
 											<li><a href="/services/digital-marketing/">Digital Marketing Strategy</a></li>
 											<li><a href="/services/search-engine-optimization/">Search Engine Optimization (SEO)</a></li>
@@ -1145,7 +1145,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 							</li>
 							<li class="menu-item menu-item-has-children">
-										<a href="#">AI & Technology Solutions â€º</a>
+										<a href="#">AI & Technology Solutions ›</a>
 										<ul class="sub-menu">
 											<li><a href="/services/ai-chatbots-&-virtual-assistants/">AI Chatbots & Virtual Assistants</a></li>
 											<li><a href="/services/workflow-&-business-automation/">Workflow & Business Automation</a></li>
@@ -1433,14 +1433,14 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<div class="shiftbox">
 								<div class="shiftbox-image">
 									<a href="/work/khatech/">
-										<img src="/wp-content/themes/aenfinite.nyc/processed/khatechthumbnail.avif" alt="KhaTtech - 360Â° Digital Marketing Solutions Platform" class="cover" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.nyc/processed/khatechthumbnail.avif" alt="KhaTtech - 360° Digital Marketing Solutions Platform" class="cover" loading="lazy" decoding="async" />
 									    <a href="/work/khatech/" class="shiftbox-link"> </a>
 									</a>
 								</div>
 								<div class="shiftbox-content">
 									<div class="preview">
 										<div class="preview-content" data-index="04">
-											<div class="preview-name preview-name__caption"><a href="/work/khatech/">KhaTtech - 360Â° Digital Marketing Solutions Platform</a></div>
+											<div class="preview-name preview-name__caption"><a href="/work/khatech/">KhaTtech - 360° Digital Marketing Solutions Platform</a></div>
 																																		<div class="preview-name">Web Design & Development</div>
 																							<div class="preview-name">Digital Marketing</div>
 																							<div class="preview-name">UI/UX Design</div>
@@ -1587,7 +1587,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					</div>
 					<div class="numbers-title">
 						<div>
-							<div>client satisfaction rate with Aenfiniteâ€™s web design and UI/UX development projects</div>
+							<div>client satisfaction rate with Aenfinite’s web design and UI/UX development projects</div>
 						</div>
 					</div>
 				</div>
@@ -1905,7 +1905,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="pane-index"></div>
 				<div class="pane-title">Brand Identity Integration</div>
 				<div class="pane-subtitle">
-					<p>Your website is the digital face of your brand. We integrate your brandâ€™s personality, color schemes, and style into every design element to create a cohesive and memorable online presence.</p>
+					<p>Your website is the digital face of your brand. We integrate your brand’s personality, color schemes, and style into every design element to create a cohesive and memorable online presence.</p>
 				</div>
 			</div>
 			<div class="pane js-aos fadein">
@@ -1973,7 +1973,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 							<span>Information Architecture</span>
 						</div>
 						<div class="nlist-pane js-switch-pane" id="pane-1-2">
-							<p>Our team maps out the site architecture, creating clear navigation and logical content hierarchy to ensure users can easily find what theyâ€™re looking for.</p>
+							<p>Our team maps out the site architecture, creating clear navigation and logical content hierarchy to ensure users can easily find what they’re looking for.</p>
 						</div>
 
 						<div class="nlist-tab js-switch-tab" data-pane="#pane-1-3">
@@ -2170,7 +2170,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li>Accessibility and usability standards</li>
 										</ul>
 										<p style="margin-top: 15px; font-style: italic; color: #666;">
-											We ensure your website isnâ€™t just beautiful  itâ€™s effortless to use.
+											We ensure your website isn’t just beautiful  it’s effortless to use.
 										</p>
 									</div>
 								</div>
@@ -2231,7 +2231,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									</div>
 								</div>
 								<div class="service-text">
-									<p>We donâ€™t stop at design  we provide continuous support to keep your website secure, fast, and up to date.</p>
+									<p>We don’t stop at design  we provide continuous support to keep your website secure, fast, and up to date.</p>
 									<div class="desktop-only" style="margin-top: 15px;">
 										<p><strong>Our maintenance services include:</strong></p>
 										<ul style="margin: 10px 0; padding-left: 20px; line-height: 1.6;">

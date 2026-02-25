@@ -55,17 +55,6 @@ export default function RootLayout({
         {/* HREFLANG TAGS - Global language alternates */}
         <link rel="alternate" hrefLang="x-default" href="https://aenfinite.nyc/" />
         <link rel="alternate" hrefLang="en" href="https://aenfinite.nyc/" />
-        <link rel="alternate" hrefLang="es" href="https://aenfinite.nyc/es/" />
-        <link rel="alternate" hrefLang="fr" href="https://aenfinite.nyc/fr/" />
-        <link rel="alternate" hrefLang="de" href="https://aenfinite.nyc/de/" />
-        <link rel="alternate" hrefLang="it" href="https://aenfinite.nyc/it/" />
-        <link rel="alternate" hrefLang="ar" href="https://aenfinite.nyc/ar/" />
-        <link rel="alternate" hrefLang="pt" href="https://aenfinite.nyc/pt/" />
-        <link rel="alternate" hrefLang="zh" href="https://aenfinite.nyc/zh/" />
-        <link rel="alternate" hrefLang="hi" href="https://aenfinite.nyc/hi/" />
-        <link rel="alternate" hrefLang="nl" href="https://aenfinite.nyc/nl/" />
-        <link rel="alternate" hrefLang="ja" href="https://aenfinite.nyc/ja/" />
-        <link rel="alternate" hrefLang="ko" href="https://aenfinite.nyc/ko/" />
         {/* END HREFLANG */}
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
